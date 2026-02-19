@@ -1,0 +1,2 @@
+// This is the new legit test file
+test();
